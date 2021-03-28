@@ -6,7 +6,7 @@ using namespace std;
 // printing of the first 20 elements of all three lower triangular matrices are in the main method
 // printing of the first 20 elements of b[] is in the main method
 // below are the 2 methods LinearIndx() method and /LinearIndx() methods
-// All -1 values are a representation of the undefined values in the lower triangular array
+// All -1 values are a representation of the undefined values in the lower triangular array (because some of the randomly generated numbers may include zero)
 
 
 // initialising the global one dimensional array
